@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "102914744434",
+    "project_id": "flutterex2p-35c33",
+    "storage_bucket": "flutterex2p-35c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102914744434:android:9db05f09025a6f82d5e2eb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ex_2p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102914744434-d0fqvdqjdp7fosmapgp7008prggk3as8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zuBZweCQwtjBPYnXoUX9sPPgOnfH1Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102914744434-d0fqvdqjdp7fosmapgp7008prggk3as8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102914744434-5gk8ur87iaq51fvbb7uip3rhbl61i86t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterEx2p.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
